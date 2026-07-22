@@ -1,7 +1,7 @@
 <h1 align="center">🔍 ACHADOS E PERDIDOS</h1>
-<h3 align="center">Sistema Desktop Corporativo para Gerenciamento de Custódia, Triagem Inteligente e Conformidade</h3>
+<h3 align="center">Sistema Desktop Corporativo para Gerenciamento de Custódia, Triagem Inteligente e Conformidade de Pertences e Objetos</h3>
 <p align="center">
-  <i>Projeto Acadêmico — Senac Sorocaba | Técnico em Desenvolvimento de Sistemas</i>
+  <i>Projeto Integrador (PI) — Senac Sorocaba | Técnico em Desenvolvimento de Sistemas (2025)</i>
 </p>
 
 <p align="center">
@@ -10,10 +10,8 @@
 
 > **"Eficiência, rastreabilidade e segurança na gestão e devolução de pertences."**
 
+---
 > ⚠️ **Nota:** Todos os dados exibidos nas demonstrações do sistema são fictícios e gerados estritamente para fins acadêmicos.
-
----
----
 
 ## 📌 Visão Geral do Projeto
 
@@ -42,10 +40,10 @@ Para garantir que o sistema fosse escalável, seguro e de fácil manutenção, i
 
 ## 🛠️ Stacks Utilizadas
 
-*   **Linguagem:** Java (JDK 21 + Apache Maven)
+*   **Backend:** Java (JDK 21 + Apache Maven)
 *   **Persistência & ORM:** Hibernate / JPA
 *   **Banco de Dados:** MySQL
-*   **Interface Gráfica:** JavaFX
+*   **Frontend:** JavaFX
 
 ---
 
