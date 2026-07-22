@@ -1,10 +1,18 @@
-# 🔍 Sistema de Achados e Perdidos — Shopping Iguatemi Esplanada
-## Projeto Acadêmico Desenvolvido no curso Técnico de Desenvolvimento de Sistemas no Senac Sorocaba
-  
-> **Um sistema desktop corporativo robusto para gerenciamento de custódia, triagem inteligente e conformidade de itens perdidos.**
+<h1 align="center">🔍 ACHADOS E PERDIDOS</h1>
+<h3 align="center">Sistema Desktop Corporativo para Gerenciamento de Custódia, Triagem Inteligente e Conformidade</h3>
+<p align="center">
+  <i>Projeto Acadêmico — Senac Sorocaba | Técnico em Desenvolvimento de Sistemas</i>
+</p>
+
+<p align="center">
+  <img src="assets/iguatemiesplanada.jpg" width="100%" alt="Banner do Projeto Achados e Perdidos - Shopping Iguatemi Esplanada"/>
+</p>
+
+> **"Eficiência, rastreabilidade e segurança na gestão e devolução de pertences."**
 
 > ⚠️ **Nota:** Todos os dados exibidos nas demonstrações do sistema são fictícios e gerados estritamente para fins acadêmicos.
 
+---
 ---
 
 ## 📌 Visão Geral do Projeto
